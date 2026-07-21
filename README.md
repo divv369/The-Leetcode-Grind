@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/divv369/The-Leetcode-Grind/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divv369/The-Leetcode-Grind/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +77,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divv369/The-Leetcode-Grind/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 <!---LeetCode Topics End-->
