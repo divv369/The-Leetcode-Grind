@@ -29,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/divv369/The-Leetcode-Grind/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -52,8 +54,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/divv369/The-Leetcode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0202-happy-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
