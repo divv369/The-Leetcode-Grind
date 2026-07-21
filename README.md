@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/divv369/The-Leetcode-Grind/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -74,4 +75,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
