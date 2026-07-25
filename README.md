@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0202-happy-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/divv369/The-Leetcode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/divv369/The-Leetcode-Grind/tree/main/0056-merge-intervals/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/divv369/The-Leetcode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
