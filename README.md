@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divv369/The-Leetcode-Grind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/divv369/The-Leetcode-Grind/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Sliding Window
@@ -123,5 +124,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
