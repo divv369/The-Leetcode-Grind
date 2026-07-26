@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/divv369/The-Leetcode-Grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/divv369/The-Leetcode-Grind/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/divv369/The-Leetcode-Grind/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/divv369/The-Leetcode-Grind/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divv369/The-Leetcode-Grind/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -127,9 +128,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/divv369/The-Leetcode-Grind/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/divv369/The-Leetcode-Grind/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
