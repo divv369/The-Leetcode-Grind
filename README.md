@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/divv369/The-Leetcode-Grind/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divv369/The-Leetcode-Grind/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/divv369/The-Leetcode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/divv369/The-Leetcode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/divv369/The-Leetcode-Grind/tree/main/0739-daily-temperatures/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
