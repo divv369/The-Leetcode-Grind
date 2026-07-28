@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/divv369/The-Leetcode-Grind/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/divv369/The-Leetcode-Grind/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/divv369/The-Leetcode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/divv369/The-Leetcode-Grind/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/divv369/The-Leetcode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/divv369/The-Leetcode-Grind/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
