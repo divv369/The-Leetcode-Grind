@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/divv369/The-Leetcode-Grind/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0202-happy-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/divv369/The-Leetcode-Grind/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/divv369/The-Leetcode-Grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divv369/The-Leetcode-Grind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0020-valid-parentheses/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/divv369/The-Leetcode-Grind/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -148,5 +151,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/divv369/The-Leetcode-Grind/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
