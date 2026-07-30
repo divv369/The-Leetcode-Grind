@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/divv369/The-Leetcode-Grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/divv369/The-Leetcode-Grind/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divv369/The-Leetcode-Grind/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/divv369/The-Leetcode-Grind/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/divv369/The-Leetcode-Grind/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/divv369/The-Leetcode-Grind/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/divv369/The-Leetcode-Grind/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
@@ -155,5 +157,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/divv369/The-Leetcode-Grind/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/divv369/The-Leetcode-Grind/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/divv369/The-Leetcode-Grind/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
