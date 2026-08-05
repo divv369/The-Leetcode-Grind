@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/divv369/The-Leetcode-Grind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/divv369/The-Leetcode-Grind/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/divv369/The-Leetcode-Grind/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Array
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/divv369/The-Leetcode-Grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/divv369/The-Leetcode-Grind/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/divv369/The-Leetcode-Grind/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/divv369/The-Leetcode-Grind/tree/main/0724-find-pivot-index/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/divv369/The-Leetcode-Grind/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/divv369/The-Leetcode-Grind/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/divv369/The-Leetcode-Grind/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0986-interval-list-intersections](https://github.com/divv369/The-Leetcode-Grind/tree/main/0986-interval-list-intersections/) | Medium |
 ## Math
@@ -161,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/divv369/The-Leetcode-Grind/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0767-reorganize-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -188,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/divv369/The-Leetcode-Grind/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0767-reorganize-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
