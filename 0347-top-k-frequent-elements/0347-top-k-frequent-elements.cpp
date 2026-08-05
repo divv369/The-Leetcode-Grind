@@ -20,16 +20,20 @@ public:
             int element = i.first;
             int freq = i.second;
             pair<int, int> curr = {freq, element};
+            
             if (pq.size() < k) {
                 pq.push(curr);
                 continue;
             } else {
-                if (curr.first > pq.top().first) {
-                    pq.pop();
-                    pq.push(curr);
-                } else
-                    continue;
+            pq.push(curr);
+            pq.pop();
             }
+            //     if (curr.first > pq.top().first) {
+            //         pq.pop();
+            //         pq.push(curr);
+            //     } else
+            //         continue;
+            // }
         }
         /// now we are storing the result
         vector<int> res;
