@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/divv369/The-Leetcode-Grind/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divv369/The-Leetcode-Grind/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/divv369/The-Leetcode-Grind/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/divv369/The-Leetcode-Grind/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/divv369/The-Leetcode-Grind/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0767-reorganize-string/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/divv369/The-Leetcode-Grind/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/divv369/The-Leetcode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/divv369/The-Leetcode-Grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/divv369/The-Leetcode-Grind/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0767-reorganize-string/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -217,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
