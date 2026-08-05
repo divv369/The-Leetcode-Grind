@@ -22,11 +22,13 @@ public:
             if (pq.size() < k)
                 pq.push(curr);
 
-            else if (curr.second > pq.top().second ||
-                     (curr.second == pq.top().second &&
-                      curr.first < pq.top().first)) {
-                pq.pop();
+            // else if (curr.second > pq.top().second ||
+            //          (curr.second == pq.top().second &&
+            //           curr.first < pq.top().first)) {
+            else {
+                
                 pq.push(curr);
+                pq.pop();
             }
         }
         vector<string> res;
