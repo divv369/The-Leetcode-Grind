@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/divv369/The-Leetcode-Grind/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Bit Manipulation
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divv369/The-Leetcode-Grind/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -236,4 +238,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/divv369/The-Leetcode-Grind/tree/main/0692-top-k-frequent-words/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
