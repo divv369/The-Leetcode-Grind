@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divv369/The-Leetcode-Grind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0022-generate-parentheses/) | Medium |
 | [0383-ransom-note](https://github.com/divv369/The-Leetcode-Grind/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/divv369/The-Leetcode-Grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/divv369/The-Leetcode-Grind/tree/main/0409-longest-palindrome/) | Easy |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0509-fibonacci-number/) | Easy |
@@ -246,4 +248,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
