@@ -14,7 +14,7 @@ class Solution {
 public:
     vector<vector<int>> res;
      
-    void fun(TreeNode* root, int sum, int target,vector<int> diary) {
+    void fun(TreeNode* root, int sum, int target,vector<int>& diary) {
         if (root == NULL)
             return;
 
@@ -29,10 +29,12 @@ public:
         }
         fun(root->left, sum, target,diary);
         fun(root->right, sum, target,diary);
+         diary.pop_back();
         return;
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        fun(root, 0, targetSum,{});
+        vector<int> diary;
+        fun(root, 0, targetSum,diary);
         return res;
     }
 };
