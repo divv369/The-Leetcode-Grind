@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divv369/The-Leetcode-Grind/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/divv369/The-Leetcode-Grind/tree/main/0022-generate-parentheses/) | Medium |
+| [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
