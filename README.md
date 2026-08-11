@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divv369/The-Leetcode-Grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
