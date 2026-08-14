@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/divv369/The-Leetcode-Grind/tree/main/0162-find-peak-element/) | Medium |
+| [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Quickselect
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divv369/The-Leetcode-Grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Lifting
@@ -358,4 +362,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
