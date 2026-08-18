@@ -373,4 +373,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/divv369/The-Leetcode-Grind/tree/main/0176-second-highest-salary/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/divv369/The-Leetcode-Grind/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
