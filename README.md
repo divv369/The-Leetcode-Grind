@@ -374,5 +374,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/divv369/The-Leetcode-Grind/tree/main/0176-second-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/divv369/The-Leetcode-Grind/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/divv369/The-Leetcode-Grind/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/divv369/The-Leetcode-Grind/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
