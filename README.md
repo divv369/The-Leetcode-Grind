@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/divv369/The-Leetcode-Grind/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/divv369/The-Leetcode-Grind/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/divv369/The-Leetcode-Grind/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divv369/The-Leetcode-Grind/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divv369/The-Leetcode-Grind/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/divv369/The-Leetcode-Grind/tree/main/0162-find-peak-element/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divv369/The-Leetcode-Grind/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/divv369/The-Leetcode-Grind/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0994-rotting-oranges](https://github.com/divv369/The-Leetcode-Grind/tree/main/0994-rotting-oranges/) | Medium |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/divv369/The-Leetcode-Grind/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/divv369/The-Leetcode-Grind/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divv369/The-Leetcode-Grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
@@ -345,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/divv369/The-Leetcode-Grind/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/divv369/The-Leetcode-Grind/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/divv369/The-Leetcode-Grind/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/divv369/The-Leetcode-Grind/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divv369/The-Leetcode-Grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -370,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/divv369/The-Leetcode-Grind/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/divv369/The-Leetcode-Grind/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/divv369/The-Leetcode-Grind/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Database
